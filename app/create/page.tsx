@@ -1,14 +1,8 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import BlogForm from '@/components/BlogForm';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-
-export const metadata = {
-    title: "Create New Post",
-    description: "Write and publish your blog post with images and rich content",
-};
 
 export default function CreatePage() {
     const router = useRouter();
