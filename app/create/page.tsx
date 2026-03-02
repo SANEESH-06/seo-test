@@ -13,7 +13,7 @@ export default function CreatePage() {
                 <div className="max-w-7xl mx-auto px-6 py-5">
                     <Link href="/">
                         <h1 className="text-2xl font-bold text-gray-900 cursor-pointer">
-                            Dasteen<span className="text-purple-600">.blog</span>
+                            xan<span className="text-purple-600">.blog</span>
                         </h1>
                     </Link>
                 </div>
